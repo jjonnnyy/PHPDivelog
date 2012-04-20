@@ -1,0 +1,10 @@
+PHP/MySQL Dive log By Jonathan Ely
+
+I developed this webfront end to display dive log data uploaded using the 
+Diving Log 5.0 SQL dump feature. It makes use of jquery and the jqplot
+plugin.
+
+You can see it in action at jonathanely.com/divelog.
+
+Any questions email:
+me@jonathanely.com
