@@ -69,7 +69,7 @@ else if ($mins==1)
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
 </head>
 <body>
-<h1><a href="statistics.php" style="color:#FFCC00;text-decoration:none;">Statistics</a> | <a href="/divelog" style="color:white;text-decoration:none;">Diving Logbook</a> | <a href="buddies.php" style="color:white;text-decoration:none;">Buddies</a></h1>
+<h1><a href="/divelog" style="color:white;text-decoration:none;">Diving Logbook</a> | <a href="buddies.php" style="color:white;text-decoration:none;">Buddies</a> | <a href="statistics.php" style="color:#FFCC00;text-decoration:none;">Statistics</a></h1>
 <table>
 <tr><td class="stat">Total Dive Time</td><td><? echo $totaldivetime; ?></td></tr>
 <tr><td class="stat">Total Number of Dives</td><td><? echo "$totalDives Dives"; ?></td></tr>

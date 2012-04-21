@@ -46,7 +46,7 @@ while ($row=mysql_fetch_array($result)){
 
 </head>
 <body>
-<h1><a href="buddies.php" style="color:#FFCC00;text-decoration:none;">Buddies</a> | <a href="/divelog" style="color:white;text-decoration:none;">Diving Logbook</a> | <a href="statistics.php" style="color:white;text-decoration:none;">Statistics</a></h1>
+<h1><a href="/divelog" style="color:white;text-decoration:none;">Diving Logbook</a> | <a href="buddies.php" style="color:#FFCC00;text-decoration:none;">Buddies</a>  | <a href="statistics.php" style="color:white;text-decoration:none;">Statistics</a></h1>
 <table>
 <tr><th style="text-align:right">No. Dives</th><th style="vertical-align:bottom">Buddy</th></tr>
 <?php //echo dive buddies
