@@ -6,5 +6,11 @@ plugin.
 
 You can see it in action at jonathanely.com/divelog.
 
+To get it running on your own website:
+	1. Export and upload your MySQL divelog data from Diving Log 5.0
+	2. Download the files from Github
+	3. Modify mysql.php for your server
+	4. Upload and enjoy
+
 Any questions email:
 me@jonathanely.com
